@@ -14,6 +14,8 @@
 
 Интересный факт: 10 лет служил в МЧС России, работал инспектром по пожарному надзору. Так что всегда готов помогать и работать в тяжелых условиях))
 
+Python Pandas SciPy NumPy Apache Airflow SQL ClickHouse PostgreSQL Jupyter Notebook Redash
+
 <!---
 GlebDenisov0207/GlebDenisov0207 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
